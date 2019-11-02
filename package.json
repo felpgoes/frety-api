@@ -1,0 +1,23 @@
+{
+  "name": "oleet-api",
+  "version": "1.0.0",
+  "description": "oleet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felpgoes/oleet-api.git"
+  },
+  "keywords": [
+    "ollet",
+    "api"
+  ],
+  "author": "felpgoes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felpgoes/oleet-api/issues"
+  },
+  "homepage": "https://github.com/felpgoes/oleet-api#readme"
+}
