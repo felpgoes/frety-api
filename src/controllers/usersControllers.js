@@ -34,4 +34,6 @@ module.exports = {
 
         return res.json(user.dataValues)
     }
+
+    //TO DO: Add new end point to update an user
 }
